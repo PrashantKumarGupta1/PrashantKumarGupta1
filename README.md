@@ -27,7 +27,7 @@ A passionate software developer from India.
 
 ---
 ### 📊 GitHub Stats:
-![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gethubkartik&show_icons=true&theme=radical)
+![Prashant's GitHub Stats](https://github.com/PrashantKumarGupta1)
 
 
 ---
