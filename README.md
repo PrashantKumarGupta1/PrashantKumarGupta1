@@ -27,12 +27,12 @@ A passionate software developer from India.
 
 ---
 ### 📊 GitHub Stats:
-![Kartikeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gethubkartik&show_icons=true&theme=radical)
+![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gethubkartik&show_icons=true&theme=radical)
 
 
 ---
 
 ### 🌐 Socials:
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/kartikeya-gupta-19b5891a2/))
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/prashant-kumar-gupta-47971b1b5/))
 
 ---
