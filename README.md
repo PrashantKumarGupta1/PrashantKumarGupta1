@@ -25,10 +25,6 @@ A passionate software developer from India.
 - *Databases:* MySQL 
 - *Other:* Data Structures & Algorithms (DSA) 
 
----
-### 📊 GitHub Stats:
-![Prashant's GitHub Stats](https://github.com/PrashantKumarGupta1)
-
 
 ---
 
