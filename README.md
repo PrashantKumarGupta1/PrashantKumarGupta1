@@ -22,8 +22,8 @@ A passionate software developer from India.
 ### 💻 Tech Stack:
 - *Languages:* c,
 - *Tools & Platforms:* Git,
-- *Databases:* MySQL 
-- *Other:* Data Structures & Algorithms (DSA) 
+- *Databases:* 
+- *Other:* 
 
 
 ---
