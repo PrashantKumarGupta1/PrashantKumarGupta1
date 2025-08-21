@@ -1,6 +1,6 @@
  ---
 
-### Hi 👋, I'm Prashant Kumar Gupta
+### Hi 👋, I'm Prashant Gupta
 A passionate Embedded Systems Engineer from India.
 
 
@@ -15,12 +15,12 @@ A passionate Embedded Systems Engineer from India.
 ---
 
 ### 💻 Tech Stack:
-- **Languages:** C, ASM
-- **Microcontrollers:** Arduino, ESP32, 
+- **Languages:** C, C++, EMBEDDED C 
+- **Microcontrollers:** ATmega328P, ESP32, LPC2129, LPC2148, STM32 
 - **RTOS (Basics):** FreeRTOS
-- **Tools & Platforms:** Git, PlatformIO, Arduino IDE
-- **Hardware:** Basic circuit design, sensor interfacing (I2C, UART, SPI)
-- **Other:** Debugging, peripheral programming, IoT basics
+- **Tools & Platforms:** Arduino IDE, Keil, Proteous, Flash magic, GitHub
+- **Hardware:** Circuit Design
+- **Other:** Debugging, LED KEYPAD 7SEGMENT LCD SENSOR etc. Interfacing, Communication protocols(I2C, UART, SPI), , IoT basics, LINUX(OS)
 
 ---
 
