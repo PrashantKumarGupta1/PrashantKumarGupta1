@@ -26,6 +26,6 @@ A passionate Embedded Systems Engineer from India.
 
 
 ### 🌐 Socials:
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/prashant-embedded))
+[LinkedIn](https://linkedin.com](https://www.linkedin.com/in/prashant-embedded)
 
 ---
