@@ -26,6 +26,6 @@ A passionate Embedded Systems Engineer from India.
 
 
 ### 🌐 Socials:
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/prashant-kumar-gupta-47971b1b5/))
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/prashant-embedded))
 
 ---
