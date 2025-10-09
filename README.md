@@ -27,8 +27,8 @@ A passionate Embedded Systems Engineer from India.
 
 
 ### 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
-[GitHub](https://github.com/PrashantKumarGupta1)  
-[Email](mailto:guptaprashant1012@gmail.com)
+📧[Email](mailto:guptaprashant1012@gmail.com)
+💼[LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
+💻[GitHub](https://github.com/PrashantKumarGupta1)  
 
 ---
