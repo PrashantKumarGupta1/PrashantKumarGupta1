@@ -27,7 +27,7 @@ A passionate Embedded Systems Engineer from India.
 
 
 ### 🌐 Socials:
-📧[Email](mailto:guptaprashant1012@gmail.com)
+📧Email:guptaprashant1012@gmail.com
 
 💼[LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
 
