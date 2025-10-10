@@ -21,7 +21,7 @@ A passionate Embedded Systems Engineer from India.
 - **Tools & Platforms**: Keil µVision, Proteus, Flash Magic, VS Code, Arduino IDE
 - **Hardware & Debugging**: Sensors, LCD, Keypad, Buzzer, Serial Communication, Circuit Design(Simulation), JTAG Debugger
 - **Embedded Concepts**: ISR (Interrupt Service Routine), Polling, Delay Management, Memory Management, Firmware Modularity, TCPIP and socket programming
-- **RTOS/OS Concepts**: FreeRTOS(Task scheduling, Semaphores)Windows, Linux Basics(Process scheduling, Device file handling)
+- **RTOS/OS Concepts**: FreeRTOS(Task scheduling, Semaphores), Linux Basics(Process scheduling, Device file handling)
 - **Soft Skills**: Problem Solving, Teamwork, Documentation, Analytical Thinking
 ---
 
