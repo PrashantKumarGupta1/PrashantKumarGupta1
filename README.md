@@ -15,13 +15,13 @@ A passionate Embedded Systems Engineer from India.
 
 ### 💻 Tech Stack:
 
-- **Languages**: Proficient in C for low-level programming on ARM Cortex-M, Basic C++(OOP Concepts), Python for scripting/debugging, DS 
-- **Microcontrollers**: ARM (LPC2148, LPC2129), 8051, Arduino(Basic prototype)
+- **Languages**: Proficient in C for low-level programming on ARM Cortex-M, Basic C++ (OOP Concepts), Python for scripting/debugging, DS 
+- **Microcontrollers**: ARM (LPC2148, LPC2129), 8051, Arduino (Basic prototype)
 - **Protocols & Interfaces**: UART, SPI, I²C, ADC, GPIO, Timers, Interrupts
 - **Tools & Platforms**: Keil µVision, Proteus, Flash Magic, VS Code, Arduino IDE
-- **Hardware & Debugging**: Sensors, LCD, Keypad, Buzzer, Serial Communication, Circuit Design(Simulation), JTAG Debugger
+- **Hardware & Debugging**: Sensors, LCD, Keypad, Buzzer, Serial Communication, Circuit Design (Simulation), JTAG Debugger
 - **Embedded Concepts**: ISR (Interrupt Service Routine), Polling, Delay Management, Memory Management, Firmware Modularity, TCPIP and socket programming
-- **RTOS/OS Concepts**: FreeRTOS(Task scheduling, Semaphores), Linux Basics(Process scheduling, Device file handling)
+- **RTOS/OS Concepts**: FreeRTOS (Task scheduling, Semaphores), Linux Basics (Process scheduling, Device file handling)
 - **Soft Skills**: Problem Solving, Teamwork, Documentation, Analytical Thinking
 ---
 
