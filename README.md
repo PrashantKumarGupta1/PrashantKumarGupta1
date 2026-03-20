@@ -13,6 +13,12 @@
 
 ---
 
+### 🚀 Career Objective
+
+To leverage my skills in **embedded systems design, firmware development, and hardware-software integration** to contribute to innovative projects in **IoT, Automation, and Embedded systems**.
+
+---
+
 ### 💻 Tech Stack
 
 #### 🧑‍💻 Programming Languages
@@ -94,11 +100,5 @@ https://www.linkedin.com/in/prashant-embedded
 
 💻 **GitHub:**  
 https://github.com/PrashantKumarGupta1  
-
----
-
-### 🚀 Career Objective
-
-To leverage my skills in **embedded systems design, firmware development, and hardware-software integration** to contribute to innovative projects in **IoT, Automation, and Embedded systems**.
 
 ---
