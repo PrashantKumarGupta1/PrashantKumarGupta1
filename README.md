@@ -95,10 +95,8 @@ To leverage my skills in **embedded systems design, firmware development, and ha
 
 📧 **Email:** [guptaprashant1012@gmail.com](mailto:guptaprashant1012@gmail.com)
 
-💼 **LinkedIn:**  
-[Prashant Gupta](https://www.linkedin.com/in/prashant-embedded)
+💼 [**LinkedIn**](https://www.linkedin.com/in/prashant-embedded)
 
-💻 **GitHub:**  
-[PrashantKumarGupta1](https://github.com/PrashantKumarGupta1)
+💻 [**GitHub**](https://github.com/PrashantKumarGupta1)
 
 ---
