@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Prashant Gupta  
+## 👋 Hi, I'm Prashant Kumar Gupta  
 
 🎯 **Embedded Systems Engineer | Firmware Developer | Hardware-Software Integration Enthusiast**
 
