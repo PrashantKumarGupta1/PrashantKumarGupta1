@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Prashant Kumar Gupta  
 
-🎯 **Embedded Systems Engineer | Firmware Developer | Hardware-Software Integration Enthusiast**
+**🎯 Embedded Software Engineer | Embedded C | Firmware | Embedded LINUX | IoT | Automotive & Embedded Products**
 
 ---
 
