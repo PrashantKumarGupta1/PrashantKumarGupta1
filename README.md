@@ -1,36 +1,104 @@
- ---
+## 👋 Hi, I'm Prashant Gupta  
 
-### Hi 👋, I'm Prashant Gupta
-A passionate Embedded Systems Engineer from India.
-
+🎯 **Embedded Systems Engineer | Firmware Developer | Hardware-Software Integration Enthusiast**
 
 ---
 
-### 💫 About Me:
-🔭 I’m currently working on embedded systems projects to enhance my skills in firmware development and hardware interfacing.  
-🌱 Learning about microcontroller programming, real-time operating systems (RTOS), and low-level hardware-software interactions.  
-⚡ Fun fact: I love exploring how everyday devices work by writing efficient low-level code for them.
+### 💫 About Me
+
+🔭 Currently building **real-world embedded systems projects** focusing on firmware development and hardware interfacing  
+🌱 Continuously learning **microcontroller programming, RTOS concepts, and low-level system design**  
+⚙️ Passionate about **understanding and building how everyday electronic systems work**  
+⚡ I enjoy writing **efficient low-level code that directly interacts with hardware**
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 
-- **Languages**: Proficient in C for low-level programming on ARM Cortex-M, Basic C++ (OOP Concepts), Python for scripting/debugging, DS 
-- **Microcontrollers**: ARM (LPC2148, LPC2129), 8051, Arduino (Basic prototype)
-- **Protocols & Interfaces**: UART, SPI, I²C, ADC, GPIO, Timers, Interrupts
-- **Tools & Platforms**: Keil µVision, Proteus, Flash Magic, VS Code, Arduino IDE
-- **Hardware & Debugging**: Sensors, LCD, Keypad, Buzzer, Serial Communication, Circuit Design (Simulation), JTAG Debugger
-- **Embedded Concepts**: ISR (Interrupt Service Routine), Polling, Delay Management, Memory Management, Firmware Modularity, TCPIP and socket programming
-- **RTOS/OS Concepts**: FreeRTOS (Task scheduling, Semaphores), Linux Basics (Process scheduling, Device file handling)
-- **Soft Skills**: Problem Solving, Teamwork, Documentation, Analytical Thinking
+#### 🧑‍💻 Programming Languages
+- **C** (Primary – Embedded/Firmware Development)  
+- C++ (Basic OOP Concepts)  
+- Python (Scripting & Debugging)  
+
 ---
 
+#### 🔌 Microcontrollers & Platforms
+- ARM7 (LPC2129, LPC2148)  
+- 8051 Microcontroller  
+- Arduino (Prototyping & Testing)  
 
-### 🌐 Socials:
-📧Email:guptaprashant1012@gmail.com
+---
 
-💼[LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
+#### 🔗 Protocols & Interfaces
+- UART  
+- SPI  
+- I²C
+- CAN
+- ADC  
+- GPIO  
+- Timers  
+- Interrupts (ISR)  
 
-💻[GitHub](https://github.com/PrashantKumarGupta1)  
+---
+
+#### 🛠️ Tools & Development Environment
+- Keil µVision  
+- Proteus (Simulation)  
+- Flash Magic  
+- VS Code  
+- Arduino IDE
+- Wokwi Simulator  
+
+---
+
+#### 🔍 Hardware & Debugging
+- Sensors Integration
+- EM-18 Reader (RFID)
+- LCD, LED, Keypad, RTC, Buzzer interfacing  
+- Serial Communication Debugging  
+- Circuit Design & Simulation  
+- JTAG Debugging  
+
+---
+
+#### 🧠 Embedded Concepts
+- Interrupt Service Routines (ISR)  
+- Polling vs Interrupt-driven design  
+- Delay & Timing Management  
+- Memory Management  
+- Modular Firmware Design  
+- TCP/IP & Socket Programming (Basics)  
+
+---
+
+#### 🖥️ RTOS / OS Concepts
+- FreeRTOS (Task Scheduling, Semaphores)  
+- Linux Basics (Process handling, Device files, Mutex, Serial communication)  
+
+---
+
+#### 🤝 Soft Skills
+- Problem Solving  
+- Analytical Thinking  
+- Team Collaboration  
+- Technical Documentation  
+
+---
+
+### 🌐 Connect With Me
+
+📧 **Email:** guptaprashant1012@gmail.com  
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/prashant-embedded  
+
+💻 **GitHub:**  
+https://github.com/PrashantKumarGupta1  
+
+---
+
+### 🚀 Career Objective
+
+To leverage my skills in **embedded systems design, firmware development, and hardware-software integration** to contribute to innovative projects in **IoT, Automation, and Embedded systems**.
 
 ---
