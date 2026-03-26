@@ -22,13 +22,19 @@ To leverage my skills in **embedded systems design, firmware development, and ha
 ### 💻 Tech Stack
 
 **Programming Languages:** **C** (Primary – Embedded/Firmware Development), **C++** (Basic OOP Concepts), **Python** (Scripting & Debugging) 
+
 **Microcontrollers & Platforms:** **ARM7** (LPC2129, LPC2148), 8051, **Arduino** (Prototyping & Testing)
-**Protocols & Interfaces:** UART, SPI, I²C, CAN, ADC, GPIO, Timers, Interrupts (ISR)  
+
+**Protocols & Interfaces:** UART, SPI, I²C, CAN, ADC, GPIO, Timers, Interrupts (ISR) 
+
 **Tools & Development Environment:** Keil µVision, Proteus (Simulation), Flash Magic, VS Code, Arduino IDE, Wokwi Simulator      
 **RTOS / OS Concepts:** FreeRTOS (Task Scheduling, Semaphores), Linux Basics (Process handling, Device files, Mutex, Serial communication) 
+
 **Hardware & Debugging:** Sensors Integration, EM-18 Reader (RFID), LCD, LED, Keypad, RTC, Buzzer interfacing, Serial Communication Debugging, Circuit Design & Simulation, GDB & JTAG Debugging
-**Soft Skills:** Problem Solving, Analytical Thinking, Team Collaboration, Technical Documentation  
-**🧠 Embedded Concepts:** Interrupt Service Routines (ISR), Polling vs Interrupt-driven design, Delay & Timing Management, Memory Management, Modular Firmware Design, TCP/IP & Socket Programming (Basics)
+
+**Soft Skills:** Problem Solving, Analytical Thinking, Team Collaboration, Technical Documentation 
+
+**Embedded Concepts:** Interrupt Service Routines (ISR), Polling vs Interrupt-driven design, Delay & Timing Management, Memory Management, Modular Firmware Design, TCP/IP & Socket Programming (Basics)
 
 ---
 
