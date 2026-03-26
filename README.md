@@ -29,6 +29,7 @@ To leverage my skills in **embedded systems design, firmware development, and ha
 **Hardware & Debugging:** Sensors Integration, EM-18 Reader (RFID), LCD, LED, Keypad, RTC, Buzzer interfacing, Serial Communication Debugging, Circuit Design & Simulation, GDB & JTAG Debugging
 **Soft Skills:** Problem Solving, Analytical Thinking, Team Collaboration, Technical Documentation  
 **🧠 Embedded Concepts:** Interrupt Service Routines (ISR), Polling vs Interrupt-driven design, Delay & Timing Management, Memory Management, Modular Firmware Design, TCP/IP & Socket Programming (Basics)
+
 ---
 
 ### 🌐 Connect With Me
